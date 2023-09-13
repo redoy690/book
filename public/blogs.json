@@ -1,0 +1,52 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
+        "title": "The Mysterious Adventure",
+        "author": "John Doe",
+        "author_img": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
+        "posted_date": "2023-09-12",
+        "reading_time": "2 ",
+        "hashtags": ["mystery", "adventure", "fiction"]
+    },
+    {
+        "id": "67890",
+        "cover": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
+        "title": "The Secrets of Science",
+        "author": "Jane Smith",
+        "author_img": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
+        "posted_date": "2023-09-11",
+        "reading_time": "3 ",
+        "hashtags": ["science", "research", "discovery"]
+    },
+    {
+        "id": "13579",
+        "cover": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
+        "title": "Love and Laughter",
+        "author": "Emily Johnson",
+        "author_img": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
+        "posted_date": "2023-09-10",
+        "reading_time": "1.5 ",
+        "hashtags": ["romance", "comedy", "relationships"]
+    },
+    {
+        "id": "24680",
+        "cover": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
+        "title": "The Quest for Knowledge",
+        "author": "David Wilson",
+        "author_img": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
+        "posted_date": "2023-09-09",
+        "reading_time": "2.5 ",
+        "hashtags": ["knowledge", "learning", "education"]
+    },
+    {
+        "id": "98765",
+        "cover": "https://mainfacts.com/media/images/coats_of_arms/ki.svg",
+        "title": "Intriguing Mysteries",
+        "author": "Sarah Adams",
+        "author_img": "https://mainfacts.com/media/images/coats_of_arms/nz.png",
+        "posted_date": "2023-09-08",
+        "reading_time": "2 ",
+        "hashtags": ["mystery", "suspense", "enigma"]
+    }
+]
